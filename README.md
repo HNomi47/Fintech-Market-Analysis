@@ -23,3 +23,6 @@ To Unerstand Pakistan's Fintech users Preferences, market dominance and users sw
 For accurate data analysis, it is necessary that data is consistent, validated and free from any error. 
 Thanks to the google form as it helped in keeping most of the data cleansed and validated, However responses from few columns required attention
 like TOM, Ever used , Current Usage, favorite. 
+
+
+
