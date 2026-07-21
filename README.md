@@ -19,6 +19,12 @@ To Unerstand Pakistan's Fintech users Preferences, market dominance and users sw
 | 🛠️ **Processing Tool** | Excel & Power Query  |
 
 ---
+## Files
+
+🔗 Unprocessed Raw data: Market_data(Unprocessed).csv
+🔗 Processed and Analyzed: Marketing_Data_Analysis.xlsx
+
+---
 ## ✅ Step 1: Data Pre processing
 For accurate data analysis, it is necessary that data is consistent, validated and free from any error. 
 Thanks to the google form as it helped in keeping most of the data cleansed and validated, However responses from few columns required attention
