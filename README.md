@@ -69,7 +69,7 @@ To understand Pakistan's fintech users' preferences, market dominance, and switc
 * Each application has its own strength in customer acquisition, while others maintain an edge in user loyalty.
 * Better user conversion does not guarantee customer loyalty.
 * NayaPay is the silent strong performer and has the capability to overthrow the supremacy of JazzCash and Easypaisa.
-* Banking apps are placed in 3rd position when users' current favorite app is not available.
+* Banking apps are placed in 3rd position for Alternate App, when users' current favorite app is not available.
 ---
 ## 🛠️ 4: Tools Used
 
