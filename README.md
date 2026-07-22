@@ -64,22 +64,18 @@ To understand Pakistan's fintech users' preferences, market dominance, and switc
 * The universal factor for users to switch apps is **Explore**.
 
 ---
-
-## 🛠️ 4: Tools Used
-
-* Excel Functions
-* Power Query Editor
-* Google Forms
-
----
-
 ## 💡 Conclusion
 
 * Each application has its own strength in customer acquisition, while others maintain an edge in user loyalty.
 * Better user conversion does not guarantee customer loyalty.
 * NayaPay is the silent strong performer and has the capability to overthrow the supremacy of JazzCash and Easypaisa.
 * Banking apps are placed in 3rd position when users' current favorite app is not available.
+---
+## 🛠️ 4: Tools Used
 
+* Excel Functions
+* Power Query Editor
+* Google Forms
 ---
 
 ## 🤝 Connect with Me
