@@ -1,72 +1,90 @@
-# Fintech-Market-Analysis.
-An end-to-end market research analysis on consumer behavior, brand loyalty, and churn across Pakistani fintech apps (JazzCash, EasyPaisa, NayaPay, SadaPay) using Power Query and Excel. 
+# Fintech-Market-Analysis
+
+An end-to-end market research analysis of consumer behavior, brand loyalty, and churn across Pakistani fintech apps (JazzCash, Easypaisa, NayaPay, SadaPay) using Power Query and Excel.
 
 ---
+
 ## Project Objective
-To Unerstand Pakistan's Fintech users Preferences, market dominance and users switching and staying behavior by analyzing:
-* Top of Mind Awareness
+
+To understand Pakistan's fintech users' preferences, market dominance, and switching and retention behavior by analyzing:
+
+* Top-of-Mind Awareness
 * Net Promoter Score
 * Brand Imagery
 * Push/Pull Factors
+
 ---
-## 📄 Dataset overview
+
+## 📄 Dataset Overview
+
 | Feature | Detail |
 | :--- | :--- |
 | 📁 **Dataset** | Primary Consumer Fintech Survey |
 | 📅 **Survey Period** | 2026 Consumer Research |
 | 📄 **Data Dimensions** | 150 Rows × 28 Columns |
 | 📍 **Source** | Self-Administered |
-| 🛠️ **Processing Tool** | Excel & Power Query  |
 
 ---
+
 ## Files
-| File Link | Description  |
+
+| File Link | Description |
 | :--- | :--- |
-| [Unprocessed Raw data](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Market_data(Unprocessed).csv) | Unprocessed Raw data |
-| [Processed and Analyzed](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Marketing_Data_Analysis.xlsx) | Processed and Analyzed |
-
-
+| [Unprocessed Raw Data](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Market_data(Unprocessed).csv) | Unprocessed raw data |
+| [Processed and Analyzed](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Marketing_Data_Analysis.xlsx) | Processed and analyzed data |
 
 ---
-## ✅ 1: Data Pre processing
 
- * Standardized the values in columns using Find/ Replace function
- * Renamed the columns
- * Removed unnecessary columns
- * Engineered Awareness column and Push/ Pull Factors
----
- ## ✅ 2: Exploratory Data Analysis
+## ✅ 1: Data Preprocessing
 
- *  🧑 **Highest population** 18-29 years
- *  🚹 **Gender population** Male dominant sample, around 71%
- *  😍 **Favorite App** jazzcash is the favorite app as around 43% of the sample votes for it
- *  ⌚ **App usage** Jazzcash and its users are mostly using this app for more than 2 years
- *  🙋‍♂️ **Awareness** 73% of the sample population is aware of Jazzcash followed by easypaisa
----
- ## ✅ 3: Findings
+* Standardized values in columns using the Find/Replace function
+* Renamed the columns
+* Removed unnecessary columns
+* Engineered the Awareness column and Push/Pull Factors
 
- *  JazzCash leads in awareness, acquisition, and brand imagery, while Nayapay is the preferred secondary app for jazzcash users
- *  Easypaisa leads in user trust, ranks second in awareness, acquisition, and brand imagery, while Sadapay is the preferred secondary app for easypaisa users
- *  Despite lower awareness, Nayapay matches market leaders like Easypaisa in converting and retaining users.
- *  Sadapay ranks behind only JazzCash in international payments but underperforms in awareness, customer conversion, and brand imagery.
- *  Push is the strongest factor specifically the Better UX of other apps which forces customers to shift to other apps
- *  Universal factor for user to shift apps is to Explore
 ---
- ## 🛠️ 4: Tools Used
- * Excel Functions
- * Power Query editor
- * Google Forms
+
+## ✅ 2: Exploratory Data Analysis
+
+* 🧑 **Highest population:** 18–29 years
+* 🚹 **Gender population:** Male-dominant sample, around 71%
+* 😍 **Favorite App:** JazzCash is the top favorite app, with around 43% of the sample voting for it
+* ⌚ **App Usage:** JazzCash users have mostly been using the app for more than 2 years
+* 🙋‍♂️ **Awareness:** 73% of the sample population is aware of JazzCash, followed by Easypaisa
+
 ---
- ## 💡 Conclusion
- * Each application has its own  best in customer acquisition while other is maintaining an edge on user loyalty
- * Better user conversion does not gurantee customer loyalty
- * Nayapay is the silent strong performer  and has the capability to over throw the supremacy of jazzcash and easypaisa
- * Bankings apps is placed at 3rd position when users current favorite app is not available
+
+## ✅ 3: Findings
+
+* JazzCash leads in awareness, acquisition, and brand imagery, while NayaPay is the preferred secondary app for JazzCash users.
+* Easypaisa leads in user trust, ranks second in awareness, acquisition, and brand imagery, while SadaPay is the preferred secondary app for Easypaisa users.
+* Despite lower awareness, NayaPay matches market leaders like Easypaisa in converting and retaining users.
+* SadaPay ranks behind only JazzCash in international payments but underperforms in awareness, customer conversion, and brand imagery.
+* Push is the strongest factor, specifically the better UX of other apps, which forces customers to switch to other apps.
+* The universal factor for users to switch apps is **Explore**.
+
 ---
- ## 🤝 Connect with me 
+
+## 🛠️ 4: Tools Used
+
+* Excel Functions
+* Power Query Editor
+* Google Forms
+
+---
+
+## 💡 Conclusion
+
+* Each application has its own strength in customer acquisition, while others maintain an edge in user loyalty.
+* Better user conversion does not guarantee customer loyalty.
+* NayaPay is the silent strong performer and has the capability to overthrow the supremacy of JazzCash and Easypaisa.
+* Banking apps are placed in 3rd position when users' current favorite app is not available.
+
+---
+
+## 🤝 Connect with Me
 
 | Platform | Link |
 | :--- | :--- |
 | 📁 **Email** | chnoumanabbas47@gmail.com |
-| 📅 **linkedin** | www.linkedin.com/in/numan-abbas |
-
+| 📅 **LinkedIn** | www.linkedin.com/in/numan-abbas |
