@@ -20,15 +20,50 @@ To Unerstand Pakistan's Fintech users Preferences, market dominance and users sw
 
 ---
 ## Files
+| File Link | Description  |
+| :--- | :--- |
+| [Unprocessed Raw data](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Market_data(Unprocessed).csv) | Unprocessed Raw data |
+| [View Marketing Analysis Excel](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Marketing_Data_Analysis.xlsx) | Processed and Analyzed |
 
-🔗 Unprocessed Raw data: https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Market_data(Unprocessed).csv
-🔗 Processed and Analyzed: https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Marketing_Data_Analysis.xlsx
+
 
 ---
-## ✅ Step 1: Data Pre processing
-For accurate data analysis, it is necessary that data is consistent, validated and free from any error. 
-Thanks to the google form as it helped in keeping most of the data cleansed and validated, However responses from few columns required attention
-like TOM, Ever used , Current Usage, favorite. 
+## ✅ 1: Data Pre processing
 
+ * Standardized the values in columns using Find/ Replace function
+ * Renamed the columns
+ * Removed unnecessary columns
+ * Engineered Awareness column and Push/ Pull Factors
 
+ ## ✅ 2: Exploratory Data Analysis
+
+ *  🧑 **Highest population** 18-29 years
+ *  🚹 **Gender population** Male dominant sample, around 71%
+ *  😍 **Favorite App** jazzcash is the favorite app as around 43% of the sample votes for it
+ *  ⌚ **App usage** Jazzcash and its users are mostly using this app for more than 2 years
+ *  🙋‍♂️ **Awareness** 73% of the sample population is aware of Jazzcash followed by easypaisa
+
+ ## ✅ 3: Findings
+
+ *  JazzCash leads in awareness, acquisition, and brand imagery, while Nayapay is the preferred secondary app for jazzcash users
+ *  Easypaisa leads in user trust, ranks second in awareness, acquisition, and brand imagery, while Sadapay is the preferred secondary app for easypaisa users
+ *  Despite lower awareness, Nayapay matches market leaders like Easypaisa in converting and retaining users.
+ *  Sadapay ranks behind only JazzCash in international payments but underperforms in awareness, customer conversion, and brand imagery.
+
+ ## 🛠️ 4: Tools Used
+ * Excel Functions
+ * Power Query editor
+ * Google Forms
+
+ ## 💡 Conclusion
+ * Each application has its own  best in customer acquisition while other is maintaining an edge on user loyalty
+ * Better user conversion does not gurantee customer loyalty
+ * Nayapay is the silent strong performer  and has the capability to over throw the supremacy of jazzcash and easypaisa
+---
+ ## Connect with me 
+
+| Platform | Link |
+| :--- | :--- |
+| 📁 **Email** | chnoumanabbas47@gmail.com |
+| 📅 **linkedin** | www.linkedin.com/in/numan-abbas |
 
