@@ -23,7 +23,7 @@ To Unerstand Pakistan's Fintech users Preferences, market dominance and users sw
 | File Link | Description  |
 | :--- | :--- |
 | [Unprocessed Raw data](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Market_data(Unprocessed).csv) | Unprocessed Raw data |
-| [View Marketing Analysis Excel](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Marketing_Data_Analysis.xlsx) | Processed and Analyzed |
+| [Processed and Analyzed](https://github.com/HNomi47/Fintech-Market-Analysis/blob/main/Marketing_Data_Analysis.xlsx) | Processed and Analyzed |
 
 
 
