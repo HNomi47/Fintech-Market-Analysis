@@ -34,7 +34,7 @@ To Unerstand Pakistan's Fintech users Preferences, market dominance and users sw
  * Renamed the columns
  * Removed unnecessary columns
  * Engineered Awareness column and Push/ Pull Factors
-
+---
  ## ✅ 2: Exploratory Data Analysis
 
  *  🧑 **Highest population** 18-29 years
@@ -42,25 +42,28 @@ To Unerstand Pakistan's Fintech users Preferences, market dominance and users sw
  *  😍 **Favorite App** jazzcash is the favorite app as around 43% of the sample votes for it
  *  ⌚ **App usage** Jazzcash and its users are mostly using this app for more than 2 years
  *  🙋‍♂️ **Awareness** 73% of the sample population is aware of Jazzcash followed by easypaisa
-
+---
  ## ✅ 3: Findings
 
  *  JazzCash leads in awareness, acquisition, and brand imagery, while Nayapay is the preferred secondary app for jazzcash users
  *  Easypaisa leads in user trust, ranks second in awareness, acquisition, and brand imagery, while Sadapay is the preferred secondary app for easypaisa users
  *  Despite lower awareness, Nayapay matches market leaders like Easypaisa in converting and retaining users.
  *  Sadapay ranks behind only JazzCash in international payments but underperforms in awareness, customer conversion, and brand imagery.
-
+ *  Push is the strongest factor specifically the Better UX of other apps which forces customers to shift to other apps
+ *  Universal factor for user to shift apps is to Explore
+---
  ## 🛠️ 4: Tools Used
  * Excel Functions
  * Power Query editor
  * Google Forms
-
+---
  ## 💡 Conclusion
  * Each application has its own  best in customer acquisition while other is maintaining an edge on user loyalty
  * Better user conversion does not gurantee customer loyalty
  * Nayapay is the silent strong performer  and has the capability to over throw the supremacy of jazzcash and easypaisa
+ * Bankings apps is placed at 3rd position when users current favorite app is not available
 ---
- ## Connect with me 
+ ## 🤝 Connect with me 
 
 | Platform | Link |
 | :--- | :--- |
